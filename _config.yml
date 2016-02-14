@@ -18,6 +18,7 @@ markdown: kramdown
 
 permalink: '/:title'
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, rouge]
+highlighter: rouge
 
 paginate: 10
