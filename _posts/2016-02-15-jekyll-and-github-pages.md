@@ -14,7 +14,7 @@ I decided I should probably set up my own Jekyll & Github page in case I need it
 
 ### Go is Great
 
-I've been learning and writing Golang since November 2015. Progress is slow but I am writing code every day. I'm hopeful that one day I will be knowledgable enough to start making some fun projects. I'm currently learning all the data structure and working through <a href="https://projecteuler.net/"> Project Euler problems</a>. One of the things I really like about Jekyll is the Rouge highligher which makes Go code look nice. This was the first problem I solved on project Euler.
+I've been learning and writing Golang since November 2015. Progress is slow but I am writing code every day. I'm hopeful that one day I will be knowledgable enough to start making some fun projects. I'm currently learning all the data structures and working through <a href="https://projecteuler.net/"> Project Euler problems</a>. One of the things I really like about Jekyll is the Rouge highligher which makes Go code look nice. This was the first problem I solved on project Euler.
 
 
 
@@ -47,6 +47,6 @@ func main(){
 
 
 <img src="https://projecteuler.net/profile/Rosalita.png">
-
+<p>
 
 There are achievements for solving the problems and you even get your own url to a tiny image that display how many problems you have solved. Which is kind of neat.
