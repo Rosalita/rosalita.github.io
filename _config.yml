@@ -1,24 +1,76 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Site wide configuration
 
-# Site settings
-title: Test Blog
-description: 'A test blog' # write a nice description for your blog
-baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site http://www.example.com
-# google_analytics: 'UA-XXXXXX-X'
-twitter_username: 'twitter_username'
+title:  Home
+locale:           en_UK
+url:
 
-# Build settings
-markdown: kramdown
 
-permalink: '/:title'
+# Jekyll configuration
 
-gems: [jekyll-paginate, rouge]
+permalink:   /:categories/:title/
+markdown:    kramdown
 highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
 
-paginate: 10
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Rosie Hamilton
+  avatar: avatar.jpg
+  bio: "Level 100 Software Tester, Level 1 Golang Developer."
+  email:
+  disqus-shortname:
+  twitter: rosicadia
+  facebook: rosie.hamilton.7982
+  google:
+    plus: RosieHamilton
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: Rosalita
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: missrosalita
+  lastfm: #username
+  tumblr: #username
+  pinterest: enchantrix
+  foursquare: #username
+  steam: MissRosalita
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
