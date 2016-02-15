@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll and Github Pages
+title: Jekyll, Github Pages and Go
 excerpt: "As you can see I set up Jekyll and Github pages."
 tags: [first post]
 comments: false
