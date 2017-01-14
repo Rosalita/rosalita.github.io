@@ -10,14 +10,17 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-My name is Rosie. I usually write about testing software at <a href="http://testingfuntime.blogspot.co.uk/"> Mega Ultra Super Happy Software Testing Fun Time </a> 
+My name is Rosie Hamilton.
+
+I usually write about testing software at <a href="http://testingfuntime.blogspot.co.uk/"> Mega Ultra Super Happy Software Testing Fun Time </a>
 
 ## My favourite things are:
 
-* Learning new things
 * Computers
 * Computer games
-* Violin
 * Golang
+* Learning new things
 * Software Testing
-* Prosecco
+* Speaking
+* Violin
+* Writing
