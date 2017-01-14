@@ -3,7 +3,7 @@ layout: post
 title: New Year New Projects
 excerpt: "Reflection on 2016 and goals for 2017"
 tags: [coding]
-comments: false
+comments: true
 image:
   feature: bg10.png
 ---
