@@ -16,6 +16,7 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-feed
 
 kramdown:
   auto_ids: true
