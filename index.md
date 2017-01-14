@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Rosie's Blog
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+excerpt: ""
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: coast1.jpg
+  feature: bg4.jpg
 ---
