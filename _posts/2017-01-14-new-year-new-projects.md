@@ -29,7 +29,7 @@ Some of the highlights for me were:
 
 ### 2016 Post mortem
 
-For me, 2016 had two very distinct halves. The first half I spent learning Go. Writing code that made use of Go's http package really levelled up my understanding of web apps, which in turn enabled me to do some very good testing in my day job (testing an FX trading platform). I also started building a web app with Go that would help me practice violin scales.
+For me, 2016 had two very distinct halves. The first half I spent learning Go. Writing code that made use of Go's http package really levelled up my understanding of web apps. This in turn enabled me to do some very good testing in my day job (testing an FX trading platform). I also started building a web app with Go that would help me practice violin scales.
 
 In the summer of 2016 I had a crazy idea to survey a large number of Software Testers. Having a need to perform statistical analysis on the results lead to me learning R. Understanding R improved my understanding of statistics and data. I wrote a reactive web app using an R webframe work called Shiny.
 
