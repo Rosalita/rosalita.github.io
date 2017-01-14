@@ -5,7 +5,7 @@ excerpt: "As you can see I set up Jekyll and Github pages."
 tags: [first post]
 comments: false
 image:
-  feature: bg1.png
+  feature: bg6.png
 ---
 
 I decided I should probably set up my own Jekyll & Github page in case I need it at some point in the future.
