@@ -8,11 +8,11 @@ image:
   feature: bg10.png
 ---
 
-I have decided to dust off this blog as I want to start writing more posts which are not 100% about software testing. I made a few posts about R on my [testing blog](http://testingfuntime.blogspot.co.uk/) last year but they all had an underlying softare testing theme, e.g. analysing data from software tester or data about software testing conferences.
+I have decided to dust off this blog and update it for 2017. The main reason for doing so it that I want to start writing more posts which are not entirely about software testing. I know I made a few posts about R on my [testing blog](http://testingfuntime.blogspot.co.uk/) last year but deep down they were all testing themed. If I wrote about analysing data, it was data collected from software testers or data about software testing conferences.
 
 ## 2016 Highlights
 
-When I think about 2016, it was a very good year. I was able to accomplish a lot.
+When I think about 2016, it was a very good year and I was able to accomplish a lot.
 
 Some of the highlights for me were:
 
