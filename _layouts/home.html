@@ -33,7 +33,10 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
+
+    Welcome to my blog, should you be interested <a href="feed.xml">a feed of post is available here</a> 
+
+    <h3><a href="{{ site.url}}/posts/">Most Recent Posts</a></h3>
     {% for post in site.posts limit:5 %}
     <article>
       {% if post.link %}

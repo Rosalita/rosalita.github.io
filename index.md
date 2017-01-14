@@ -5,4 +5,3 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: bg11.png
 ---
-This is my home page
