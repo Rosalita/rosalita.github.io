@@ -5,9 +5,7 @@ excerpt: "Reflection on 2016 and goals for 2017"
 tags: [coding]
 comments: false
 image:
-  feature: sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: bg2.png
 ---
 
 I have decided to dust off this blog as I want to start writing more posts which are not 100% about software testing. I made a few posts about R on my [testing blog](http://testingfuntime.blogspot.co.uk/) last year but they all had an underlying softare testing theme, e.g. analysing data from software tester or data about software testing conferences.
