@@ -32,4 +32,4 @@ As well as this blog, I also write about testing software at [Mega Ultra Super H
 * Writing
 * Yoga
 
-Each day is a gift that I make the most of, taking the good with the bad and the happy with the sad.  
+Each day is a gift that I try to make the most of, taking the good with the bad and the happy with the sad.  

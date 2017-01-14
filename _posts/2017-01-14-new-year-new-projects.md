@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Year New Projects
-excerpt: "Reflection on 2016 and goals for 2017"
+excerpt: "Reflection on 2016 and Goals for 2017"
 tags: [coding]
 comments: true
 image:
