@@ -11,7 +11,7 @@ image:
 
 My name is Rosie Hamilton and I am a technophile, I love new technology.
 
-I'm also a autodidact. I have taught myself many wonderful things and hold the belief that I can learn anything I set my mind to.
+I'm also an autodidact. I have taught myself many wonderful things and hold the belief that I can learn anything I set my mind to.
 
 My current day job is working as a Senior Test Engineer on financial software projects.
 
