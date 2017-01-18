@@ -25,6 +25,7 @@ I also write about testing software at [Mega Ultra Super Happy Software Testing 
 * Crafting
 * Computers
 * Computer games
+* Data Science & Data Visualisation
 * Golang
 * Learning new things
 * Public Speaking
