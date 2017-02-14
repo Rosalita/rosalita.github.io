@@ -13,9 +13,16 @@
 
 {% include _navigation.html %}
 
+<style type="text/css">
+.image-wrap{
+    background-image: url('../images/sample-image-1.jpg');
+}
+</style>
+
+
 {% if page.image.feature %}
   <div class="image-wrap">
-  <img src=
+<!--  <img src=
     {% if page.image.feature contains 'http' %}
       "{{ page.image.feature }}"
     {% else %}
@@ -24,8 +31,8 @@
   alt="{{ page.title }} feature image">
   {% if page.image.credit %}
     <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
+  {% endif %} -->
+  </div> <!-- /.image-wrap -->
 {% endif %}
 
 <div id="main" role="main">
