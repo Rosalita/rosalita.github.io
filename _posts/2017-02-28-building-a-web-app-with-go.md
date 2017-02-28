@@ -101,4 +101,4 @@ While learning Go and working on this project there were times when things got r
 I also joined a Slack group called [Gophers on Slack](https://invite.slack.golangbridge.org/). This is a really large Slack Chat group (at last count over 13,000 members). Again, I felt a bit scared about saying anything or asking questions. Reading the chat left me feeling pretty intimidated. There were so many topics and conversations which were going straight over my head and I felt really out of my depth. I didn't start chatting straight away on the Gophers Slack. Through Twitter I found out about [WomenWhoGo](http://www.womenwhogo.org/) and I was able to connect with them and join their Slack Chat. I have so found the Go community to be incredibly supportive, helpful and inclusive. I am meeting and talking to so many wonderful, passionate people that genuinely care about Go and each other. I'm very proud to be a tiny part of something this awesome.
 
 
-This post was also published on [rosalita.github.io](http://rosalita.github.io/).
+This post was also published on my company's blog [Scott Logic Blog](http://blog.scottlogic.com/).
