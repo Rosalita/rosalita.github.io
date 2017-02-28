@@ -7,7 +7,8 @@ tags:
   - Go
   - Development
 
-image: images/gocode.jpg
+image:
+  feature: bg10.png
 
 ---
 
