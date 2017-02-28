@@ -1,12 +1,12 @@
 ---
-author: rhamilton
+layout: post
 title: Creating My First Web Application with Go
 excerpt: "How I used Go to create a web app that would help me practice violin scales."
 image: images/gocode.jpg
 tags:  
   - Go
   - Development
-layout: post
+
 image: images/gocode.jpg
 
 ---
