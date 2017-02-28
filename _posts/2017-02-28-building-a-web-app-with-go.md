@@ -85,7 +85,7 @@ Once the UserSelected function knows what the user has selected, it renders the 
 ## Deploying to Heroku
 After building my app I wanted to be able to share it with other people which meant that I needed to host it somewhere rather than running it locally. I chose to deploy my app using [Heroku](https://www.heroku.com/). Heroku is a cloud based platform as a service which has supports Go. Heroku also provide a [detailed walkthrough of how to get started with Go](https://devcenter.heroku.com/articles/getting-started-with-go#introduction). There are however some important things to remember when deploying a Go app to Heroku.
 
-When starting up a go web server inside Heroku, Heroku will assign it a port number. In order for your web server to work, your Go code will need to listen and server on the port number that Heroku gives it. The port number Heroku assigns can be identified using the "os" package and the function os.Getenv("PORT"). In my app I have used a function to ensure that if running on Heroku, the correct port is used or if running locally port 8080 is used. An example of how to do this is shown below.
+When starting up a go web server inside Heroku, Heroku will assign it a port number. In order for your web server to work, your Go code will need to listen and serve on the port number that Heroku gives it. The port number Heroku assigns can be identified using the "os" package and the function os.Getenv("PORT"). In my app I have used a function to ensure that if running on Heroku, the correct port is used or if running locally port 8080 is used. An example of how to do this is shown below.
 
 <script src="https://gist.github.com/Rosalita/549ed45fb27f2cad93d6cb1fb747a0e5.js"></script>
 
