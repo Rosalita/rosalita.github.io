@@ -43,22 +43,15 @@ titlecase: true
 # Site owner
 owner:
   name: Rosie Hamilton
-  avatar: avatar.jpg
-  bio: "Software Tester, Violinist, Gopher, Data Explorer, Yoga Addict, Honest Blogger, PC Gamer, Curious Learner, Creator of my own unique path through life."
+  avatar: avatar3.jpg
+  bio: "Software Developer, Violinist, Gopher, Data Explorer, Yoga Addict, Honest Blogger, PC Gamer, Curious Learner, Creator of my own unique path through life."
   email:
   disqus-shortname:
   twitter: rosicadia
   facebook: rosie.hamilton.7982
-  google:
-    plus: RosieHamilton
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
   github: Rosalita
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: rosie-hamilton-493b02137
   xing: #username
   instagram: missrosalita
   lastfm: #username

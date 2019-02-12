@@ -9,28 +9,13 @@ image:
 
 ---
 
-My name is Rosie Hamilton and I am a technophile, I love new technology.
+My name is Rosie Hamilton and I love computers and new technology.
 
-I'm an autodidact. I have taught myself many wonderful things and hold the belief that I can learn anything I set my mind to.
+I like to learn and teach myself things. I hold the belief that I can learn anything I set my mind to.
 
-My current day job is working as a Senior Test Engineer on financial software projects.
+My current day job is as a backend Software Developer working with Go, AWS, Continuous Deployment and Serverless Lambdas.
 
-Outside of work I write code in Go & R. I really enjoy tech meetups and talking to new people.   
+Outside of work I enjoy yoga, arts & crafts, computer and card games. I really enjoy tech meetups and talking to new people.   
 
-I also write about testing software at [Mega Ultra Super Happy Software Testing Fun Time](http://testingfuntime.blogspot.co.uk/)
+Before I became a Software Developer I spent a lot of time working as a Software Tester and writing about Software Testing at [Mega Ultra Super Happy Software Testing Fun Time](http://testingfuntime.blogspot.co.uk/)
 
-## Some of my favourite things are:
-
-* Cats
-* Crafting
-* Computers
-* Computer games
-* Data Science & Data Visualisation
-* Golang
-* Learning new things
-* Public Speaking
-* Violin
-* Writing
-* Yoga
-
-I treat each day as a gift and try to make the most of it. It's important to take the good with the bad and the happy with the sad.  
